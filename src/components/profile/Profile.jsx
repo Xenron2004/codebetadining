@@ -46,7 +46,7 @@ const Profile = () => {
           }}
           transition={{ delay: 0.5 }}
         >
-          <Link to="/admin/myorders">Orders</Link>
+          <Link to="/myorders">Orders</Link>
         </motion.div>
         <motion.button
           initial={{

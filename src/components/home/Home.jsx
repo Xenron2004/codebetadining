@@ -27,7 +27,7 @@ const Home = () => {
               delay: 0.2,
             }}
           >
-            Explore the world of Burgers..
+            Dive into the world of fantastic taste..
           </motion.p>
         </div>
 
