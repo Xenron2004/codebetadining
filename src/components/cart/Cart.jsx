@@ -27,21 +27,21 @@ const Cart = () => {
     <section className="cart">
       <main>
         <CartItem
-          title={"Cheese Burger"}
+          title={"Sagar Gaire"}
           img={burger1}
           value={0}
           increment={() => increment(1)}
           decrement={() => decrement(1)}
         />
         <CartItem
-          title={"Fries Burger"}
+          title={"Sharma vishnu"}
           img={burger2}
           value={0}
           increment={() => increment(2)}
           decrement={() => decrement(2)}
         />
         <CartItem
-          title={"Chicken Burger"}
+          title={"Royal Cafe"}
           img={burger3}
           value={0}
           increment={() => increment(3)}

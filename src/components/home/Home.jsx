@@ -20,7 +20,7 @@ const Home = () => {
     <>
       <section className="home">
         <div>
-          <motion.h1 {...options}>B-tech Burger Wala</motion.h1>
+          <motion.h1 {...options}>Villa's Food</motion.h1>
           <motion.p
             {...options}
             transition={{
@@ -45,7 +45,7 @@ const Home = () => {
             delay: 0.2,
           }}
         >
-          Explore Menues
+          Explore Menu
         </motion.a>
       </section>
 

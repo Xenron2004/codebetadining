@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        <h2>B-tech Burger Wala</h2>
+        <h2>Villa's Food</h2>
 
         <p>We are trying to give you the best possible taste</p>
         <br />
@@ -27,7 +27,7 @@ const Footer = () => {
           <AiFillGithub />
         </a>
       </aside>
-      <strong>© copyright recived @btechburgerwala</strong>
+      <strong>© copyright recived @villa's Food</strong>
     </footer>
   );
 };

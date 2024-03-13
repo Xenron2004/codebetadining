@@ -12,14 +12,14 @@ const Menu = () => {
     
   return (
     <section id="menu">
-      <h1>MENU</h1>
+      <h1>DININGS</h1>
 
       <div>
         <MenuCard
           itemNum={1}
           burgerSrc={burger1}
-          price={199}
-          title="Cheese burger"
+          price={2499}
+          title="Sagar Gaire"
           handler={addToCartHandler}
           delay={0.1}
           
@@ -27,8 +27,8 @@ const Menu = () => {
         <MenuCard
           itemNum={2}
           burgerSrc={burger2}
-          price={299}
-          title="corn burger"
+          price={2999}
+          title="Sharma Vishnu"
           handler={addToCartHandler}
           delay={0.5}
           
@@ -36,8 +36,8 @@ const Menu = () => {
         <MenuCard
           itemNum={3}
           burgerSrc={burger3}
-          price={499}
-          title="Chicken Burger"
+          price={3499}
+          title="Royal cafe"
           handler={addToCartHandler}
           delay={0.8}
           

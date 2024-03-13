@@ -10,9 +10,9 @@ const About = () => {
         <h1>About Us</h1>
 
         <article>
-          <h4>Btech Burger Wala</h4>
+          <h4>Villa's Food</h4>
           <p>
-            We are Btech Burger Wala, providing tyou the best taste in the world
+            We are , providing tyou the best taste in the world
           </p>
 
           <p>
@@ -30,12 +30,11 @@ const About = () => {
           <article>
             <div>
               <img src={me} alt="Founder" />
-              <h3>Sankalp barriar</h3>
+              <h3>We are best sellers in Dining Market</h3>
             </div>
 
             <p>
-              I am Sankalp Barriar, the founder of Btech
-              Burger Wala. Affiliated to best taste...
+              We are Gladiators, the founder of Villa's Food. Affiliated to best taste...
             </p>
           </article>
         </div>

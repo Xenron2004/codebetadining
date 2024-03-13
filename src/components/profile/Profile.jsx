@@ -21,7 +21,7 @@ const Profile = () => {
         <motion.img src={me} alt="user" {...options} />
 
         <motion.h5 {...options} transition={{ delay: 0.3 }}>
-          Sankalp
+          Villa's Team
         </motion.h5>
 
         <motion.div {...options} transition={{ delay: 0.5 }}>

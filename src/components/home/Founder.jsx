@@ -17,12 +17,12 @@ const Founder = () => {
     <section className="founder">
       <motion.div {...options}>
         <img src={me} alt="Founder" height={200} width={200} />
-        <h3>Sankalp Barriar</h3>
+        <h3></h3>
 
         <p>
-          Namaste, Everyone This is Sankalp Barriar, the founder of B-tech Burger Wala..
+          We provide best Dinings.
           <br />
-          Our aim is Revolutionalise the Burger Market..
+          Our aim is Revolutionalise the Dining  Market..
         </p>
       </motion.div>
     </section>
